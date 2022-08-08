@@ -1,0 +1,18 @@
+/* use several of the properties mentioned in the section above 
+(color, background color, typography properties, etc). Take some 
+time to play around with the various properties to get a feel for what they do. */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: bisque;
+    color: grey;
+    text-align: center;
+}
+
+.linky {
+    background-color: greenyellow;
+    font-size: 22px;
+}
